@@ -1,0 +1,14 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ8…ÆŒÛ.
+Esquid:S1481%"(Remove this unused "bdt" local variable.(¾ƒš	8Íœª.
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë¾Ø€8õÙ³Ú.
+Tsquid:S1854%"7Remove this useless assignment to local variable "bdt".(¾ƒš	8Íœª.
+`squid:S2094"BRemove this empty class, write its code or make it an "interface".(·ˆõ»8ØğÆÚ.
+Msquid:S1068"*Remove this unused "myFlag" private field.(Œ¡Ùıÿÿÿÿ8²á°Ú.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âµ¥„
+Gsquid:S3985")Remove this unused private "Basic" class.(·ˆõ»8ØğÆÚ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ß›Ô8´‰›×.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ß›Ô8Øã¨×.

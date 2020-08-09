@@ -1,0 +1,7 @@
+
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ñÄ¬áþÿÿÿÿ8•É¥ó©.
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ªÈ×8½ãÀñ©.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÉŽœýÿÿÿÿ8ÿ²Ûñ©.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é”¾¦ÿÿÿÿÿ8‚•´ó©.

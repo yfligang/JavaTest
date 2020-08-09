@@ -1,0 +1,22 @@
+
+Vsquid:S1854"8Remove this useless assignment to local variable "str1".(ö¬Õ˜8è¾æã­.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ÿ÷Ÿüÿÿÿÿ8‚óöæ­.
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(öÒí8¯ï¹å­.
+Dsquid:S14816"&Remove this unused "c" local variable.(İĞÂé8È¶³å­.
+Usquid:S1854"8Remove this useless assignment to local variable "str2".(Ìà =8¾‡õã­.
+Gsquid:S1481")Remove this unused "str1" local variable.(ö¬Õ˜8è¾æã­.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ü­©æ­.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÅàÛ
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Î¡ã„8—©»ä­.
+[squid:S1854"8Remove this useless assignment to local variable "str3".(æ¸¶ÿÿÿÿÿ8Óü³ä­.
+Lsquid:S1481")Remove this unused "str3" local variable.(æ¸¶ÿÿÿÿÿ8Óü³ä­.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(“Ÿ÷Ÿüÿÿÿÿ8Ù¾Úæ­.
+Fsquid:S1481")Remove this unused "str2" local variable.(Ìà =8¾‡õã­.
+nsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(Ûóßßıÿÿÿÿ8È¶³å­.
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ü­©æ­.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â¼Îøÿÿÿÿ8è¾æã­.

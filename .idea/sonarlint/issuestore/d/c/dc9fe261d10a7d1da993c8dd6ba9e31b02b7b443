@@ -1,0 +1,15 @@
+
+psquid:S1450"RRemove the "num" field and declare it as a local variable in the relevant methods.(¥Û¾º8ÚÛ›¶¥.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(úá¸ƒ8ŠÌÓµ¥.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ úÅúÿÿÿÿ8÷ÇÛË¥.
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(¿ ¬ûÿÿÿÿ8÷ô¶Ë¥.
+isquid:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(ü³êÑşÿÿÿÿ8óúİË¥.
+Esquid:S1068"'Remove this unused "num" private field.(¥Û¾º8äïš¶¥.
+]squid:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8Âá“¶¥.
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ÿÃ„‘8ª‰·Ë¥.
+U
+squid:S106/"9Replace this use of System.out or System.err by a logger.(€Ë²:8‡İĞ¥.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8È‡¹Ë¥.

@@ -1,0 +1,9 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ²½Ü8ÕŸ¢ª.
+…"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¡±“ª.
+Œ"squid:ClassVariableVisibilityCheck"RMake number a static final constant or non-public and provide accessors if needed.( ë¾©ùÿÿÿÿ8ÏÕœª.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ğïïùÿÿÿÿ
+rsquid:S00116"NRename this field "SSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®öüüÿÿÿÿÿ8Šıšª.
+‰"squid:ClassVariableVisibilityCheck"OMake SSN a static final constant or non-public and provide accessors if needed.(®öüüÿÿÿÿÿ8Šıšª.
+"squid:ClassVariableVisibilityCheck"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8Â§”ª.

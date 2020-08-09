@@ -1,0 +1,10 @@
+
+ssquid:S1450"URemove the "number" field and declare it as a local variable in the relevant methods.(Ê˜ê²8“­‘Ú.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(’‹œ«şÿÿÿÿ8àóØ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ÈŠûÿÿÿÿ8¶‚õØ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âµ¥„
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(†ï¼ıùÿÿÿÿ8ûû‘Ú.
+Š"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.(®›ĞØşÿÿÿÿ8˜¾ŒÚ.

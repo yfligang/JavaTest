@@ -1,0 +1,16 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æñ|8ƒêæˆµ.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÕö‚üÿÿÿÿ8…‰³´·.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(™•ÿ”üÿÿÿÿ8êÊá´·.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÕö‚üÿÿÿÿ8…‰³´·.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(°«ÜØ8êÊá´·.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦€—Ş8åæ¦šµ.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(å±»„şÿÿÿÿ8êÊá´·.
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8åæ¦šµ.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÕö‚üÿÿÿÿ8…‰³´·.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(äˆÌ‰8”†¦Áµ.

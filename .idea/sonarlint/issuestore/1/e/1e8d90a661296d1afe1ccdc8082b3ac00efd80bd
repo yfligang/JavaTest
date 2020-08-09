@@ -1,0 +1,27 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¤‘ûÿÿÿÿ8ë’ÉÇ§.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÅˆš8¡æ×Ç§.
+qsquid:S3008"NRename this field "f_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœ©ìşÿÿÿÿ8æó»Ã§.
+Esquid:S1068"'Remove this unused "f_3" private field.(‡Ò£Å8øÂÃ§.
+Lsquid:S1444")Make this "public static f_2" field final(Üœ©ìşÿÿÿÿ8æó»Ã§.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(º¡ö8ˆØÆÇ§.
+‰"squid:ClassVariableVisibilityCheck	"OMake f_5 a static final constant or non-public and provide accessors if needed.(€‘†Ëüÿÿÿÿ8øÂÃ§.
+Hsquid:S1172"*Remove this unused method parameter "str".(Ü™Ú‡8ˆØÆÇ§.
+Jsquid:S1068"'Remove this unused "f_4" private field.(Ş ’Éùÿÿÿÿ8øÂÃ§.
+lsquid:S3008"NRename this field "f_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÂÔË8˜Ö¸Ã§.
+qsquid:S3008"NRename this field "f_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş ’Éùÿÿÿÿ8øÂÃ§.
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ê©éÇ§.
+‰"squid:ClassVariableVisibilityCheck"OMake f_2 a static final constant or non-public and provide accessors if needed.(Üœ©ìşÿÿÿÿ8æó»Ã§.
+rsquid:S00116	"NRename this field "f_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‘†Ëüÿÿÿÿ8øÂÃ§.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÈË8¨ùÄÇ§.
+Gsquid:S1444")Make this "public static f_1" field final(åÂÔË8˜Ö¸Ã§.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(âë­„ûÿÿÿÿ8Å“äÇ§.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒô†ÿÿÿÿÿ8Ê©éÇ§.
+lsquid:S3008"NRename this field "f_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ò£Å8øÂÃ§.
+„"squid:ClassVariableVisibilityCheck"OMake f_1 a static final constant or non-public and provide accessors if needed.(åÂÔË8˜Ö¸Ã§.

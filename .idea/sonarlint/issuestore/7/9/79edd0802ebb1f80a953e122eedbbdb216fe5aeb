@@ -1,0 +1,18 @@
+
+Osquid:S1481
+",Remove this unused "isMatch" local variable.(øš¶ãúÿÿÿÿ8›‰“œ¡.
+^squid:S1854
+";Remove this useless assignment to local variable "isMatch".(øš¶ãúÿÿÿÿ8›‰“œ¡.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶º¶Žùÿÿÿÿ8¾™œ¡.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä» äøÿÿÿÿ8›‰“œ¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¿ÀÄ8áï‘œ¡.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(û¦…À8¹ñˆž¡.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úìÔþÿÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹Ø¨‰ÿÿÿÿÿ8ºûè›¡.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¢žñ¦þÿÿÿÿ8ª´²¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™„“Å8ÌÒ›œ¡.
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ýâŒñ8ºûè›¡.

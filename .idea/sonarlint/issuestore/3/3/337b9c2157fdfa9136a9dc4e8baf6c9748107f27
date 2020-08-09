@@ -1,0 +1,31 @@
+
+Lsquid:S14810")Remove this unused "str2" local variable.(ÿÉ¹¦ÿÿÿÿÿ8‘ôâº­.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8¹àò³­.
+Lsquid:S1481/")Remove this unused "str1" local variable.(Á­óüÿÿÿÿ8‘ôâº­.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÛÇÈ8åò™·­.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¡ìıÿÿÿÿ8ÿ˜¬·­.
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(“Ÿ÷Ÿüÿÿÿÿ8ú¨·»­.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÅàÛ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ®Õ’8ô™ø³­.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ôÿ¹æşÿÿÿÿ8×ÿª·­.
+[squid:S1854/"8Remove this useless assignment to local variable "str1".(Á­óüÿÿÿÿ8‘ôâº­.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(»¿Ùº8—°âº­.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™„“Å8å–ä³­.
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(áˆ•ˆùÿÿÿÿ8Ì¾±º­.
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(â¼Îøÿÿÿÿ8‘ôâº­.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›ƒ“ıÿÿÿÿ8‡á”·­.
+Msquid:S22014"*The return value of "charAt" must be used.( Ô£áüÿÿÿÿ8ñœßº­.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(øıÍ©üÿÿÿÿ8¤©ñ·­.
+[squid:S18540"8Remove this useless assignment to local variable "str2".(ÿÉ¹¦ÿÿÿÿÿ8‘ôâº­.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒªÁÀ8Ë¶Õ³­.
+U
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ï¯àK8üç·­.

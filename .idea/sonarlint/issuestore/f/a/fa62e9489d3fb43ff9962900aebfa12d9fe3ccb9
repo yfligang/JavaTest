@@ -1,0 +1,19 @@
+
+dsquid:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ŸâÜË©.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(À‚ê"8¦É»Ë©.
+Bsquid:S3457"%String contains no format specifiers.(À‚ê"8¦É»Ë©.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¤İÒıÿÿÿÿ8š‡·Ë©.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8ÙÎÛË©.
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–ĞİË©.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î‘Í‹8ÓØÍ©.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯á¸Øùÿÿÿÿ8ÓØÍ©.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤——şÿÿÿÿ8ÓØÍ©.
+osquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Î‘Í‹8ÓØÍ©.
+tsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¯á¸Øùÿÿÿÿ8ÓØÍ©.
+tsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¤——şÿÿÿÿ8ÓØÍ©.

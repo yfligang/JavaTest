@@ -1,0 +1,18 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ÙœÃ–¢.
+isquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(‹Í˜ì8¹Åƒ—¢.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ôÈ‘—¢.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âµ¥„
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(›²Óêüÿÿÿÿ8¹Åƒ—¢.
+hsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(¢õÍ8¹Åƒ—¢.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ûìúÿÿÿÿ8ãš“—¢.
+nsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¹Åƒ—¢.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(š™òÕÿÿÿÿÿ8Çà»—¢.
+nsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¹Åƒ—¢.
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¡ÀžÚýÿÿÿÿ8‰ÞØ—¢.

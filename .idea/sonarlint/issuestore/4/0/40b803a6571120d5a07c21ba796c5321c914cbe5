@@ -1,0 +1,8 @@
+
+:squid:S1643"Use a StringBuilder instead.(Æ‹¨Š8ÀÜ€©­.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼äÛ½
+jsquid:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(ø™×ž8÷¬ÿ¨­.
+Vsquid:UselessImportCheck"+Remove this unused import 'java.io.Reader'.(µû¨é8®äÊ¨­.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(´Ó”†8¤˜‡©­.
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Œ¬ö§­.

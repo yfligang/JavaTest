@@ -1,0 +1,19 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á†©¬8…ëÔÆ´.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¾_8…ëÔÆ´.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·éÖúÿÿÿÿ8…ëÔÆ´.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ýñ»›ùÿÿÿÿ8…ëÔÆ´.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ‚Å¿8…ëÔÆ´.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(µß½ûÿÿÿÿ8…ëÔÆ´.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(üšÀæ8…ëÔÆ´.
+Osquid:S1481	",Remove this unused "thread2" local variable.(Ë÷øÛÿÿÿÿÿ8…ëÔÆ´.
+Osquid:S1481"",Remove this unused "thread6" local variable.(È©÷×ùÿÿÿÿ8…ëÔÆ´.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8…ëÔÆ´.
+^squid:S1854	";Remove this useless assignment to local variable "thread2".(Ë÷øÛÿÿÿÿÿ8…ëÔÆ´.
+^squid:S1854"";Remove this useless assignment to local variable "thread6".(È©÷×ùÿÿÿÿ8…ëÔÆ´.

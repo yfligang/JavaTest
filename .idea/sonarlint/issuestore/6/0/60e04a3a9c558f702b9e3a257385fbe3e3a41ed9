@@ -1,0 +1,5 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8ñïé©¥.
+Esquid:S1068"'Remove this unused "str" private field.(ÒÊ¿8Û˜€ª¥.
+?squid:S1170"!Make this final field static too.(ÒÊ¿8Û˜€ª¥.

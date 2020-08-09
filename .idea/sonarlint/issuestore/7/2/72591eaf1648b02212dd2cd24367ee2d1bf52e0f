@@ -1,0 +1,9 @@
+
+psquid:S1450"RRemove the "num" field and declare it as a local variable in the relevant methods.(¥Û¾º8Şüµø§.
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ï¢ÉÕ8¥„ø§.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËĞ½€¨.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö˜’ù8ÊšÂù§.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8Ûİ¾€¨.

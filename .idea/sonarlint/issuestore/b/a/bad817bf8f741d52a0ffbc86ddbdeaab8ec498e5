@@ -1,0 +1,14 @@
+
+Usquid:S1854"7Remove this useless assignment to local variable "sc1".(Ù©áË8¢à«®¥.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÌ¬E8üÃ©®¥.
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(èÃ 8Øø®¥.
+Esquid:S1481"(Remove this unused "sc2" local variable.(¾ÌÖ68Øø®¥.
+Usquid:S1854"7Remove this useless assignment to local variable "sc4".(¬ßÿ÷8Øø®¥.
+Fsquid:S1481"(Remove this unused "sc4" local variable.(¬ßÿ÷8Øø®¥.
+Fsquid:S1481"(Remove this unused "sc1" local variable.(Ù©áË8¢à«®¥.
+Ksquid:S1481"(Remove this unused "sc3" local variable.(×øœ”ûÿÿÿÿ8Øø®¥.
+Zsquid:S1854"7Remove this useless assignment to local variable "sc3".(×øœ”ûÿÿÿÿ8Øø®¥.
+Tsquid:S1854"7Remove this useless assignment to local variable "sc2".(¾ÌÖ68Øø®¥.

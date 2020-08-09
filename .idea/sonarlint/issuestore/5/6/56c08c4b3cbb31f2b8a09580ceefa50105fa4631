@@ -1,0 +1,12 @@
+
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(±ãå£8ù±Ú¥.
+Ysquid:S1610""6Convert the abstract class "Animal" into an interface.(éñ·›ûÿÿÿÿ8“øÚ¥.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(’ò«øÿÿÿÿ8Ó®Ú¥.
+Ssquid:S1854"5Remove this useless assignment to local variable "c".(ší”8–õÓÚ¥.
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ø¾»ßúÿÿÿÿ8Ü©¶Ú¥.
+Dsquid:S1481"&Remove this unused "c" local variable.(ší”8–õÓÚ¥.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÏÉâÔÿÿÿÿÿ8ÿ‰¶Ú¥.

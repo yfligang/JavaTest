@@ -1,0 +1,23 @@
+package com.guazi.study;
+
+public class Person {
+
+    private String name;
+    private int age;
+
+    public int getAge(){
+        return age;
+    }
+
+    public String getName(){
+        return name;
+    }
+
+    public void setAge(int age){
+        this.age = age;
+    }
+
+    public void setName(){
+        this.name = name;
+    }
+}

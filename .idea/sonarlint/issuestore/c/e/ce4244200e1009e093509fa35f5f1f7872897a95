@@ -1,0 +1,21 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úìÔşÿÿÿÿÿ
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(”–Ñâ8Ó×Çº£.
+Rsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÒÊô8É—½º£.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á•›38ÎµÏ¹£.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¾‚€8ë»¸º£.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(–¦Èøÿÿÿÿ8íÔĞ¹£.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶«‹­8­û¯º£.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ş»¿ç8•ÄÜº£.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Í»£ùÿÿÿÿ8ç–ª¹£.
+wsquid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ8éì›¹£.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8†Ğ¹£.

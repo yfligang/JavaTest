@@ -1,0 +1,11 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ÿ÷Ÿüÿÿÿÿ8ûÃÄï .
+_squid:UselessImportCheck"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8µÿàî .
+Fsquid:S1481
+")Remove this unused "line" local variable.(‘õàL8€©½Í .
+Usquid:S1854
+"8Remove this useless assignment to local variable "line".(‘õàL8€©½Í .
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âµ¥„
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­è±úÿÿÿÿ8ºßÅï .

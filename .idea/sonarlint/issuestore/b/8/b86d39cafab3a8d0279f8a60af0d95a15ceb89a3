@@ -1,0 +1,12 @@
+
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ãüò·úÿÿÿÿ
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¸“Ç™
+csquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(œª•Ò
+csquid:S1223'"LRename this method to prevent any misunderstanding or make it a constructor.(ß¬÷è
+Asquid:S14811"*Remove this unused "args1" local variable.(Å “¯
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œª•Ò
+fsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¬÷è
+Psquid:S18541"9Remove this useless assignment to local variable "args1".(Å “¯
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ

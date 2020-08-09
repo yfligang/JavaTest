@@ -1,0 +1,8 @@
+
+Hsquid:S1068"%Remove this unused "n" private field.(äÆİÜûÿÿÿÿ8¼‡˜®¥.
+usquid:UselessImportCheck"ERemove this unused import 'jdk.internal.instrumentation.TypeMapping'.(¦¯ÿùÿÿÿÿ8•Šæ±¥.
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ñ¢¼Ã8·Óš®¥.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(“­Ñ8×œŸ®¥.

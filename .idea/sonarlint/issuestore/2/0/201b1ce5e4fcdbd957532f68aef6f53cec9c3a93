@@ -1,0 +1,25 @@
+
+tsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ø™ş´8—Ÿğ².
+Ksquid:S14810"(Remove this unused "ht2" local variable.(»İ¯¹øÿÿÿÿ8¶¯âñ².
+Zsquid:S18540"7Remove this useless assignment to local variable "ht2".(»İ¯¹øÿÿÿÿ8¶¯âñ².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¤µæ8¾à¡ğ².
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Û£Úı8ÿç´ğ².
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(è°»ª8å…¶ğ².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆõÕÛ8òĞ®¦².
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ï·×ÿÿÿÿÿ8¼ˆº¦².
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÅàÛ
+ysquid:S1149%"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(«ƒÿÿÿÿÿÿ8“Š¬ğ².
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÔò¶üÿÿÿÿ8şš«¦².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ª…ö8¼ˆº¦².
+ysquid:S11490"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(»İ¯¹øÿÿÿÿ8¶¯âñ².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù”–8¶–å².
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8¯ñ ğ².

@@ -1,0 +1,19 @@
+
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(±”äïýÿÿÿÿ8ùÛØ–¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÔýï8Ä—°ô .
+Ksquid:S1481"(Remove this unused "num" local variable.(†¬›Äûÿÿÿÿ8•Šû”¡.
+Ksquid:S1481,"(Remove this unused "num" local variable.(½›Ž‘ýÿÿÿÿ8óï÷ñ .
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ý´ø¤ýÿÿÿÿ8£ÁÜ•¡.
+Nsquid:S1481'"+Remove this unused "string" local variable.(úðÝûÿÿÿÿ8„ÓÏ–¡.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íâ É8ˆëÜ•¡.
+Gsquid:S14812")Remove this unused "num1" local variable.(ò¦‹8áæ‹ò .
+Lsquid:S1481;")Remove this unused "temp" local variable.(´É×‹úÿÿÿÿ8Öèò .
+[squid:S1197'"8Move the array designator from the variable to the type.(úðÝûÿÿÿÿ8„ÓÏ–¡.
+isquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(åû›¶8áæ‹ò .
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ÎàŸ»8ŠÑÛ•¡.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ƒ¦Àøÿÿÿÿ
+]squid:S1854'":Remove this useless assignment to local variable "string".(úðÝûÿÿÿÿ8„ÓÏ–¡.
+hsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(‚ÒÍ)8óï÷ñ .

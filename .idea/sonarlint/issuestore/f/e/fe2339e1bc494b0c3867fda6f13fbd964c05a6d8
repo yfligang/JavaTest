@@ -1,0 +1,13 @@
+
+|squid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Üº†úÿÿÿÿ8¤»şÎ©.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(„øÿßÿÿÿÿÿ8ÕÉã©.
+jsquid:S1192&"GDefine a constant instead of duplicating this literal "data: " 3 times.(„øÿßÿÿÿÿÿ8Éçèã©.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¸øıÿÿÿÿ8ØìÏ©.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ»Âøÿÿÿÿ8ÕñÏ©.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(„øÿßÿÿÿÿÿ8ãåã©.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(„øÿßÿÿÿÿÿ8Éçèã©.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ“¸Õ8¦Ó¿ë©.

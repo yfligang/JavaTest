@@ -1,0 +1,14 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥²õñûÿÿÿÿ8™¹©µ¸.
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ8™¹©µ¸.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¡ˆçüÿÿÿÿ
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(£ëú‡ûÿÿÿÿ8ÙïŸµ¸.
+]squid:S1854":Remove this useless assignment to local variable "result".(££¶€üÿÿÿÿ8™¹©µ¸.
+Nsquid:S1481"+Remove this unused "result" local variable.(££¶€üÿÿÿÿ8™¹©µ¸.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¥²õñûÿÿÿÿ8™¹©µ¸.
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ñÇÍŒúÿÿÿÿ8ÙïŸµ¸.
