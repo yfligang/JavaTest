@@ -1,17 +1,17 @@
 
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š•ÑR8„Åˆµ·.
+Zsquid:S1854"7Remove this useless assignment to local variable "etd".(¤¨¬†øÿÿÿÿ8›Ò“µ·.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(þÌúç8Â³’µ·.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬¦«Ç8ŽÛ±µ·.
 xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š•ÑR8¯ˆˆµ·.
 nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾´–ñûÿÿÿÿ8ª·âµ·.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü¹¿§ÿÿÿÿÿ8Ëæ˜µ·.
 nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï¹‚äýÿÿÿÿ8ª·âµ·.
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(¡Öìâ8¦®ªµ·.
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š•ÑR8‹Ä‡µ·.
 Ksquid:S1481"(Remove this unused "etd" local variable.(¤¨¬†øÿÿÿÿ8›Ò“µ·.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ü¹¿§ÿÿÿÿÿ8Ëæ˜µ·.
 xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š•ÑR8‹Ä‡µ·.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(þÌúç8Â³’µ·.
-xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š•ÑR8‹Ä‡µ·.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬¦«Ç8ŽÛ±µ·.
-Zsquid:S1854"7Remove this useless assignment to local variable "etd".(¤¨¬†øÿÿÿÿ8›Ò“µ·.
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š•ÑR8„Åˆµ·.

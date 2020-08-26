@@ -1,9 +1,9 @@
 
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßáúâøÿÿÿÿ8éÈµ¹·.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(®ïˆ®şÿÿÿÿ8âÔ¾¹·.
-~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßáúâøÿÿÿÿ8‚ò´¹·.
-V
-squid:S106	"9Replace this use of System.out or System.err by a logger.(¡Â„‡8Ñ¹¹·.
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßáúâøÿÿÿÿ8‚ò´¹·.
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßáúâøÿÿÿÿ8éÈµ¹·.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßáúâøÿÿÿÿ8‚ò´¹·.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ïˆ®şÿÿÿÿ8âÔ¾¹·.
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¡Â„‡8Ñ¹¹·.
