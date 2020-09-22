@@ -1,0 +1,14 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³ç‚úÉ.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8³ç‚úÉ.
+Xsquid:S1854"5Remove this useless assignment to local variable "q".(ƒ‘ƒéÿÿÿÿÿ8³ç‚úÉ.
+Ssquid:S1854"5Remove this useless assignment to local variable "p".(îÕæÜ8³ç‚úÉ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã˜ëüÿÿÿÿ
+Rsquid:S1854"5Remove this useless assignment to local variable "o".(‚ˆ¶
+8³ç‚úÉ.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8³ç‚úÉ.
+Csquid:S1481"&Remove this unused "o" local variable.(‚ˆ¶
+8³ç‚úÉ.
+Dsquid:S1481"&Remove this unused "p" local variable.(îÕæÜ8³ç‚úÉ.
+Isquid:S1481"&Remove this unused "q" local variable.(ƒ‘ƒéÿÿÿÿÿ8³ç‚úÉ.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8À†ÙùÉ.

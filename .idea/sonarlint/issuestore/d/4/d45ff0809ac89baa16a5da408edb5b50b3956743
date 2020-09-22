@@ -1,17 +1,17 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÇŞá”ıÿÿÿÿ8ü€·³·.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãİ´Œıÿÿÿÿ8²Ü†´·.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô²­¤ıÿÿÿÿ8¦î™´·.
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãİ´Œıÿÿÿÿ8²Ü†´·.
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãİ´Œıÿÿÿÿ8²Ü†´·.
 [
 squid:S106	"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ8À“—´·.
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãİ´Œıÿÿÿÿ8²Ü†´·.
 ~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š—œÄùÿÿÿÿ8•æ³·.
-rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô²­¤ıÿÿÿÿ8¦î™´·.
-~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š—œÄùÿÿÿÿ8•æ³·.
-~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š—œÄùÿÿÿÿ8•æ³·.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¡Öìâ8Ô§ˆ³·.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇŞá”ıÿÿÿÿ8ü€·³·.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÇŞá”ıÿÿÿÿ8À“—´·.
-~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãİ´Œıÿÿÿÿ8²Ü†´·.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Öìâ8Ô§ˆ³·.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š—œÄùÿÿÿÿ8•æ³·.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š—œÄùÿÿÿÿ8•æ³·.
