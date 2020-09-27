@@ -1,13 +1,13 @@
 
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(§úðï8ÆÖöã´.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Æ³Áå´.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾¦êúùÿÿÿÿ8é“®å´.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(„·¹øþÿÿÿÿ8¾þÅã´.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÂ™’üÿÿÿÿ8”¼Ñå´.
-[
 squid:S106%"9Replace this use of System.out or System.err by a logger.(„Ãéˆüÿÿÿÿ8Àœöä´.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§úðï8ÆÖöã´.
 dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ü…¿å´.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾¦êúùÿÿÿÿ8é“®å´.
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Æ³Áå´.
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÂ™’üÿÿÿÿ8”¼Ñå´.

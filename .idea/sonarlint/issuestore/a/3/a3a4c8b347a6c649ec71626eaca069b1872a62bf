@@ -1,0 +1,6 @@
+
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(¿ñÕâøÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı˜ÁÇ8Å¶§¯Ë.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã˜ëüÿÿÿÿ
+Dsquid:S1168"&Return an empty array instead of null.(¥¹ï8’ô¨¯Ë.

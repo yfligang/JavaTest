@@ -1,8 +1,8 @@
 
+zsquid:S2159"WRemove this call to "equals"; comparisons between unrelated arrays always return false.(äÈ˜“øÿÿÿÿ8ô–ºÏÉ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã˜ëüÿÿÿÿ
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8åşÁÏÉ.
+Bsquid:S1659"Declare "n" on a separate line.(¾îîÈıÿÿÿÿ8åşÁÏÉ.
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¾Ü’8¡ûºÏÉ.
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç¹ ç8©¨óÏÉ.
-[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8åşÁÏÉ.
-zsquid:S2159"WRemove this call to "equals"; comparisons between unrelated arrays always return false.(äÈ˜“øÿÿÿÿ8ô–ºÏÉ.
-Bsquid:S1659"Declare "n" on a separate line.(¾îîÈıÿÿÿÿ8åşÁÏÉ.
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã˜ëüÿÿÿÿ

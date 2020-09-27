@@ -37,9 +37,6 @@ public class TestReverseDemo {
         if (num < Math.pow(-2,31)){
             num = 0;
         }else {
-            String str = String.valueOf(num); //先将数字转换为字符串
-            //System.out.println(str);
-
 
         }
 

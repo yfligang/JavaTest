@@ -1,6 +1,19 @@
 
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8›¬»‰Ë.
-Hsquid:S2116
-"%Use "Arrays.toString(array)" instead.(Ã¥›Ëşÿÿÿÿ8¢ê¹‰Ë.
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÆ¶ûÿÿÿÿ8îû‹ŠË.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(áĞİî8š¬ŠË.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ğÎŠË.
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ƒ®Õ’8§æçŠË.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(áĞİî8ôş‰ŠË.
+Gsquid:S14813")Remove this unused "num1" local variable.(ß…Ú8ŸşÔŠË.
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã˜ëüÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8øóõ‰Ë.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡éÁÈ8Íãß‰Ë.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹Ç‚é8ºèè‰Ë.
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8ƒ íŠË.
