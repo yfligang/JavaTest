@@ -1,0 +1,12 @@
+
+lsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8³¶ŸŒÏ.
+zsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¹üÀ¢ûÿÿÿÿ8üæ¡ŒÏ.
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ş éÑøÿÿÿÿ8ŞÂŸ‡Ï.
+]
+squid:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8³¶ŸŒÏ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷æöâşÿÿÿÿ8ÜÍ ŒÏ.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·©š‡Ï.
+Lsquid:S1125")Remove the literal "false" boolean value.(¹üÀ¢ûÿÿÿÿ8´±¢ŒÏ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğîô©8îè ‡Ï.

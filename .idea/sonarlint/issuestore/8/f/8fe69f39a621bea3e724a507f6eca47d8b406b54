@@ -1,0 +1,22 @@
+
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¥ê³šúÿÿÿÿ8šâØ›Ğ.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(«ö†¦ùÿÿÿÿ8œéœĞ.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êåÈ8Šö¹—Ğ.
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¸½ª›Ğ.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¸½ª›Ğ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áàıü8 Ä³™Ğ.
+U
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ƒÚáB8¢ªšĞ.
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Óç¼ıÿÿÿÿ8‰Õ²ÁĞ.
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8€ø¶šĞ.
+wsquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(×…›ˆ8²Ó šĞ.
+usquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞË¥«ıÿÿÿÿ8ìÉˆšĞ.
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ğ½–ìÿÿÿÿÿ8Ò¦°Ğ.
+|squid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(«²Äÿÿÿÿÿ8«·‚Ğ.

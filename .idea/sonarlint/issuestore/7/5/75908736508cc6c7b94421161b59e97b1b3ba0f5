@@ -1,0 +1,6 @@
+
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8àë÷ÊÏ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô®áûÿÿÿÿ8óûğÊÏ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şàœ´8Ğ›ùÊÏ.
