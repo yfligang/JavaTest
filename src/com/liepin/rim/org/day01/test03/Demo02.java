@@ -1,4 +1,4 @@
-package com.liepin.rim.org.day01;
+package com.liepin.rim.org.day01.test03;
 
 import javax.swing.text.html.HTMLDocument;
 import java.util.HashMap;

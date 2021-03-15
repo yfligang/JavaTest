@@ -18,8 +18,6 @@ public class FuInterImpl implements FuInter {
     public static void main(String[] args){
         FuInter fuInter = new FuInterImpl();
         fuInter.method(100.0);
-
-        FuInter.method("Hello");
     }
 
 

@@ -1,4 +1,4 @@
-package com.liepin.rim.org.day01;
+package com.liepin.rim.org.day01.test03;
 
 import java.util.*;
 //按照这个方法，只能找到出现重复次数最多是多少，不知道对应的是哪些元素
