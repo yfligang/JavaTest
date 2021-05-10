@@ -4,6 +4,10 @@ package com.liepin.rim.org.day01.test09;
  */
 public class SuiBianXie {
 
+    public void method01(){
+        System.out.println(2);
+    }
+
     public SuiBianXie(){
         System.out.println("打印无参构造函数");
     }
