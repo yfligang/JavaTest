@@ -7,4 +7,8 @@ public class Teacher{
     static {
         System.out.println("父类静态代码块");
     }
+
+    public Teacher(){
+        System.out.println(1);
+    }
 }
