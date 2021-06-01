@@ -32,6 +32,10 @@ public class Student extends Teacher{
     }
 
     public static void main(String[] args){
+        
+
+        int i = 0;
+        i+=1;
         Student st = new Student();
         Student st1 = new Student(10);
         Student st2 = new Student("LG",100);
@@ -45,5 +49,14 @@ public class Student extends Teacher{
             System.out.println(obj);
         }
 
+        int a = '2';
+        System.out.println(a);
+
+    }
+}
+
+class Method{
+    public static void main(String[] args){
+        System.out.println(1);
     }
 }
