@@ -16,4 +16,8 @@ public class ZiLei extends ChouXiang implements kuozhang{
     public void cool() {
 
     }
+
+    public static void main(String[] args){
+        System.out.println(1);
+    }
 }
