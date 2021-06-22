@@ -31,8 +31,17 @@ public class FindSameWord {
 
     }
 
+    public void method(){
+        int x = 1;
+        float y = 2;
+        System.out.println(x/y);
+        double i = 0.9239d;
+        long m = 0xfffL;
+    }
+
     public static void main(String[] args){
         new FindSameWord().findSameWord("abc");
+        new FindSameWord().method();
     }
 
 }
