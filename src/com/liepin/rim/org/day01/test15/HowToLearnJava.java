@@ -33,8 +33,6 @@ public class HowToLearnJava {
         System.out.println(str1);
     }
 
-
-
     public static void main(String[] args){
 
     }
