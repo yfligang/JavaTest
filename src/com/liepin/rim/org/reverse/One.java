@@ -1,6 +1,7 @@
 package com.liepin.rim.org.reverse;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Random;
 
 public class One {
@@ -17,14 +18,37 @@ public class One {
         }
         Random random = new Random();
         ArrayList<Integer> arrayList = new ArrayList<>();
-        for (int i = 0; i < num; i++) {
+        for (int i = 0; i < 10; i++) {
             int num1 = random.nextInt(num);
             arrayList.add(num1);
         }
         //打印出ArrayList中随机数的值
         for (int num2:arrayList
              ) {
-            System.out.println(num2);
+            System.out.print(num2 + " ");
+        }
+
+        HashMap<Integer,Integer> hashMap = new HashMap<>();
+        for (int i = 0; i < arrayList.size(); i++) {
+            if (hashMap.containsKey(arrayList.get(i)) == false){
+                hashMap.put(arrayList.get(i),1);
+            }else {
+                hashMap.put(arrayList.get(i),hashMap.get(arrayList.get(i)) + 1);
+            }
+        }
+        System.out.println("=======================");
+
+        System.out.print(hashMap + ";");
+
+        System.out.println("=======================");
+        for (int num01:hashMap.values()
+             ) {
+            System.out.print(num01 + " ");
+        }
+        System.out.println("=======================");
+        for (int num02:hashMap.keySet()
+             ) {
+            System.out.print(num02 + " ");
         }
 
         return arrayList;
