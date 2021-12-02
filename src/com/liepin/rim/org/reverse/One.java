@@ -14,6 +14,7 @@ public class One {
 
     public static ArrayList<Integer> arrayList(int num){
         if (num == 0){
+            System.out.println("数组长度不能为0.请重新输入");
             return null;
         }
         Random random = new Random();
@@ -30,6 +31,10 @@ public class One {
 
         HashMap<Integer,Integer> hashMap = new HashMap<>();
         for (int i = 0; i < arrayList.size(); i++) {
+            if (arrayList.size() == 0){
+                System.out.println("数组长度不能为0.请重新输入");
+                return null;
+            }
             if (hashMap.containsKey(arrayList.get(i)) == false){
                 hashMap.put(arrayList.get(i),1);
             }else {
