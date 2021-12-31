@@ -32,8 +32,23 @@ public class Solution {
     }
 
     public static void main(String[] args){
-        method(new int[]{1,2,3,4,5},3);
+        //method(new int[]{1,2,3,4,5},3);
+        //method(new int[]{10, 10, 20, 0, 11, 9,8,12},20);
+        Solution solution = new Solution();
+        solution.strMethod("H");
     }
+
+    public String strMethod(String str){
+        String string = "输入字符不能为空";
+        if (str.length() <= 1){
+            System.out.println(string);
+            return string;
+        }else {
+            return str;
+        }
+    }
+
+
 }
 
 
